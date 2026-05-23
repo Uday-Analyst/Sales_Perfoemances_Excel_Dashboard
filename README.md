@@ -46,6 +46,8 @@ Key Insights
 Dashboard Screenshot
 ![Dashboard Screenshot1](Sales_Performances_Dashbord.png)
 
+See on Linkedin :- https://www.linkedin.com/posts/uday-kakad-045976322_excel-dataanalytics-dashboard-activity-7443630068633026560-lAZg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGoK7UBdOtGb27rS8_rCE-uogb9uftbs7A
+
 GitHub README Description
 Designed and developed an interactive Sales Performance Dashboard to analyze revenue, profit, customer performance, shipping trends, and regional sales insights. The dashboard includes KPI cards, dynamic slicers, pivot charts, and visual analytics to support data-driven decision-making.
 
